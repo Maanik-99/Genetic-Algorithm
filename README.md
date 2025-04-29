@@ -16,3 +16,4 @@ This project implements a **Genetic Algorithm (GA)** to find a list of `k` numbe
 1. Clone the repository:
    ```bash
   
+## python genetic_algorithm.py
